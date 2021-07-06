@@ -22,7 +22,7 @@ fn main() {
             println!("The Next Wallpaper");
         }
         save_config(app_data);
-        let oneinstance = create_app_lock(app_data.port());
+        // let oneinstance = create_app_lock(app_data.port());
     }
     if !args_matches.is_present("nogui") {
         launch_app_gui();
