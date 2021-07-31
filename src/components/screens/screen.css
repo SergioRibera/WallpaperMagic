@@ -1,0 +1,4 @@
+.screen {
+    background-color: var(--bg-color-dark);
+    border-radius: var(--border-radius);
+}

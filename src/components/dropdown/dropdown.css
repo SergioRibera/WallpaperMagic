@@ -1,0 +1,14 @@
+.dropdown {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.dropdown-text {
+    display: flex;
+    font-weight: var(--text-weight);
+}
+
+.dropdown-select {
+}

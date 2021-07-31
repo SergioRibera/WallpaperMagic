@@ -1,0 +1,9 @@
+.screen-view {
+    align-items: center;
+    justify-content: center;
+    background-color: var(--bg-color-medium);
+    border-radius: var(--border-radius);
+    display: flex;
+    height: 260px;
+    width: 100%;
+}
